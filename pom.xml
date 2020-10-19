@@ -41,7 +41,9 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.4</version>
                 <configuration>
-                    <mainClass>MyPkg.CH_14.AExecuter.Main</mainClass>
+                    <!--mainClass>MyPkg.CH_14.AExecuter.Main</mainClass-->
+                    <!--mainClass>MyPkg.CH_14.AExecuter.App</mainClass-->
+                    <mainClass>MyPkg.CH_31.JavaFX_FXML.MainApp</mainClass>
                 </configuration>
             </plugin>
         </plugins>
